@@ -1,1 +1,1 @@
-# LP-2-Codes
+Link : https://ezpizzy.netlify.app/
