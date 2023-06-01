@@ -1,0 +1,30 @@
+login into salesforce developer account
+
+click on setup near profile right top head
+
+select developer console
+
+-----------------------------------------------
+select file - > new - > create apex class
+
+write your apex class code
+
+save file
+-----------------------------------------------
+select file - > new - > visualforce page
+
+write your ui code
+
+save file
+
+----------------------------------------------
+
+open your visualforce page
+
+click preview - done!
+
+
+------------------------------
+
+if no visualforce page - 
+go to debug -> execute anonymous window - > call classname.function()- > selct open log - > slect debug only

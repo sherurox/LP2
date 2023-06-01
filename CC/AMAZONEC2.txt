@@ -1,0 +1,54 @@
+login in aws
+
+go to ec2 service
+
+launch instance
+
+give instance name
+
+select ubuntu os
+
+go to key pair - 
+
+create new -  
+give key name
+type - RSA
+format - .ppk
+
+go to network setting:
+
+allow ssh
+allow https
+allow http
+
+click on launch instance
+-------------------------------------
+
+configure instance - 
+
+click on instance id-
+
+click on its checkbox - click connect
+
+---------------------------------------
+connect to instance tab opens - 
+
+select ec2 instance connect - click connect 
+
+----------------------------------	r
+
+setup website on ec2 - 
+
+run following commands - 
+sudo su
+apt update
+apt upgrade
+apt install apache2
+cd /var/www/html/
+rm index.html
+git clone https://www.github.com/lolzhub/cc  --------- use your website link
+mv cc/* ./
+rm -rf cc
+
+--------------------------------ap	
+DONE!

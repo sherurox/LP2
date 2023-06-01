@@ -1,0 +1,71 @@
+login into salesforce developer account
+
+click on setup near profile right top head
+
+select setup
+
+---------------------------------------
+
+search app manager
+
+new lightining app
+
+give details
+
+next
+
+next 
+
+nav items - calender  contacts etc
+
+next
+
+user profiles - 
+
+add - system administrator 
+
+save and finish
+
+----------------------------------------------
+
+go to app launcher
+
+select app name - this is your app 
+
+-------------------------------------------
+go to setup again - 
+
+goto object manager - 
+create custom object
+
+give name - 
+entry
+entries
+
+scroll to end - 
+object creation options - launch new custom tab wizard
+
+save 
+
+---------------------------------------------------
+
+give tab style etc
+
+next
+
+-----------------------------
+add to custom apps - 
+select only your app
+save
+-----------------------
+
+go to your app again and  refresh
+
+-------------------------------
+to add fields go to your object manager and add field and relationships
+
+add example date - you get application updated thus done
+
+----------------------------------------------
+can add more entries init now
+-------------------------------------

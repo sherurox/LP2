@@ -1,0 +1,49 @@
+login console - 
+
+select project
+
+create new project
+
+create - 
+
+then select project
+----------------------------
+apis and services
+
+enable api and services
+------------------------
+
+app engine admin api
+
+enable 
+
+-------------------------------
+
+activate cloud shell - 
+
+gcloud projects list
+
+copy your project_id
+
+gcloud config set project project_id
+
+cd / 
+-----------------------
+google cloud platform github - 
+
+repos-- > python-docs-sample - copy link
+---------------------------------
+again in cloud shell ->
+
+git clone paste link
+
+cd python-docs-samples/appengine/standard_python3/hello_world/
+
+python
+
+-------------------------
+for deploy
+
+gcloud app deploy app.yaml
+
+give y enter (you need credit card as need cloud build service)
