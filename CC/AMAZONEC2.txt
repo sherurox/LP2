@@ -46,7 +46,7 @@ apt upgrade
 apt install apache2
 cd /var/www/html/
 rm index.html
-git clone https://www.github.com/lolzhub/cc  --------- use your website link
+git clone https://github.com/ss3pi0l/lms  --------- use your website link
 mv cc/* ./
 rm -rf cc
 
